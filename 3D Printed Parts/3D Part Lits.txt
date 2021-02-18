@@ -1,9 +1,24 @@
-3D Part List:
+3D Part List to be printer :
 
 Chamber:
+-STL Files/Chamber_board_holder.stl
+-STL Files/Chamber_bottom.stl
+-STL Files/Chamber_top.stl
+-STL Files/Stirrer_DC_support.stl
+-STL Files/Stirrer_holder.stl
+-STL Files/Magnetic_stirrer.stl
+
+Note that only one between (Syringe Pump + Pinch Valve) and Peristaltic Pump is needed:
 
 Syringe Pump:
+-STL Files/SyringePump_holder.stl
+-STL Files/SyringePump_holder_top.stl
+-STL Files/SyringePump_servo_slider_holder.stl
+-STL Files/SyringePump_slider.stl
 
 Pinch Valve:
+- STL Files/PinchValve_servo_slider_holder.stl
+- STL Files/PinchValve_slider.stl
 
 Peristaltic Pump:
+- STL Files/PeristalticPump.stl
