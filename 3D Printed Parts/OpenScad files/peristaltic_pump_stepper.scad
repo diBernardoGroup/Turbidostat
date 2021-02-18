@@ -1,5 +1,5 @@
 //Planetary peristalic pump  with support for Stepper Motors
-//by Agostino Guarino (agostingoguarino@gmail.com)
+//by Agostino Guarino (agostinoguarino@gmail.com)
 
 // Released under the Creative Commons - Attribution - Share Alike license (http://creativecommons.org/licenses/by-sa/3.0/)
 
